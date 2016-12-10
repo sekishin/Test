@@ -1,2 +1,4 @@
 hoge
 hoge
+foo
+foo
